@@ -122,4 +122,4 @@ Any updates pushed to the repository automatically update the live site
 - This project is free to use for personal purposes.
 - Contributions are **not allowed** at this time.
   
-Access GitHub repo : [here](/https://github.com/jayxtgyy/nutrirecipes.git) .
+Access GitHub repo : [here](https://github.com/bleublud/nutrirecipes.git).
